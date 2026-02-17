@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productos>
+    <producto>
+        <id>1</id>
+        <nombre>Laptop HP Pavilion</nombre>
+        <descripcion>
+            Portátil con procesador Intel Core i5, 8 GB de RAM y 512 GB de SSD.
+        </descripcion>
+        <precio>799.99</precio>
+        <disponibilidad>10</disponibilidad>
+        <categoria>Electrónicos</categoria>
+        <fabricante>HP</fabricante>
+        <especificaciones>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>2</id>
+        <nombre>Smartphone Samsung Galaxy S21</nombre>
+        <descripcion>
+            Smartphone Android con pantalla de 6.2 pulgadas, cámara triple y 128 GB de almacenamiento.
+        </descripcion>
+        <precio>899.99</precio>
+        <disponibilidad>15</disponibilidad>
+        <categoria>Teléfonos</categoria>
+        <fabricante>Samsung</fabricante>
+        <especificaciones>
+            <pantalla>6.2 pulgadas AMOLED</pantalla>
+            <camara>Triple cámara de 12MP + 12MP + 64MP</camara>
+            <bateria>4000 mAh</bateria>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>3</id>
+        <nombre>Tablet Lenovo Tab M10</nombre>
+        <descripcion>
+            Tablet con pantalla de 10.1 pulgadas, procesador Quad-Core y 32 GB de almacenamiento.
+        </descripcion>
+        <precio>199.99</precio>
+        <disponibilidad>20</disponibilidad>
+        <categoria>Tablets</categoria>
+        <fabricante>Lenovo</fabricante>
+        <especificaciones>
+            <pantalla>10.1 pulgadas IPS</pantalla>
+            <sistema_operativo>Android 9.0</sistema_operativo>
+            <almacenamiento>32 GB</almacenamiento>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>4</id>
+        <nombre>Auriculares Inalámbricos Sony WH-1000XM4</nombre>
+        <descripcion>
+            Auriculares con cancelación de ruido, Bluetooth y hasta 30 horas de batería.
+        </descripcion>
+        <precio>299.99</precio>
+        <disponibilidad>25</disponibilidad>
+        <categoria>Audio</categoria>
+        <fabricante>Sony</fabricante>
+        <especificaciones>
+            <cancelacion_ruido>Sí</cancelacion_ruido>
+            <conectividad>Bluetooth</conectividad>
+            <autonomia_bateria>30</autonomia_bateria>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>5</id>
+        <nombre>Televisor Samsung QLED Q80T</nombre>
+        <descripcion>
+            Televisor 4K con tecnología Quantum Dot y pantalla de 55 pulgadas.
+        </descripcion>
+        <precio>1299.99</precio>
+        <disponibilidad>8</disponibilidad>
+        <categoria>Electrónicos</categoria>
+        <fabricante>Samsung</fabricante>
+        <especificaciones>
+            <resolucion>4K UHD</resolucion>
+            <tecnologia>Quantum Dot</tecnologia>
+            <tamaño_pantalla>55 pulgadas</tamaño_pantalla>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>6</id>
+        <nombre>Cámara DSLR Canon EOS 80D</nombre>
+        <descripcion>
+            Cámara réflex digital con sensor APS-C de 24.2 MP y grabación de video Full HD.
+        </descripcion>
+        <precio>1099.99</precio>
+        <disponibilidad>12</disponibilidad>
+        <categoria>Fotografía</categoria>
+        <fabricante>Canon</fabricante>
+        <especificaciones>
+            <megapixeles>24.2 MP</megapixeles>
+            <grabacion_video>Full HD</grabacion_video>
+            <tipo_sensor>APS-C</tipo_sensor>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>7</id>
+        <nombre>Aspiradora Robot iRobot Roomba 960</nombre>
+        <descripcion>
+            Aspiradora robot con tecnología de navegación visual y control mediante aplicación.
+        </descripcion>
+        <precio>499.99</precio>
+        <disponibilidad>18</disponibilidad>
+        <categoria>Hogar</categoria>
+        <fabricante>iRobot</fabricante>
+        <especificaciones>
+            <tecnologia_navegacion>Visual</tecnologia_navegacion>
+            <control_app>Sí</control_app>
+            <autonomia_bateria>75 minutos</autonomia_bateria>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>8</id>
+        <nombre>Impresora 3D Creality Ender 3</nombre>
+        <descripcion>
+            Impresora 3D de nivel de entrada con área de impresión de 220 x 220 x 250 mm.
+        </descripcion>
+        <precio>249.99</precio>
+        <disponibilidad>10</disponibilidad>
+        <categoria>Tecnología</categoria>
+        <fabricante>Creality</fabricante>
+        <especificaciones>
+            <area_impresion>220 x 220 x 250 mm</area_impresion>
+            <tecnologia>FFF (Fused Filament Fabrication)</tecnologia>
+            <conectividad>USB, Tarjeta SD</conectividad>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>9</id>
+        <nombre>Bicicleta de Montaña Trek X-Caliber 9</nombre>
+        <descripcion>
+            Bicicleta de montaña con cuadro de aluminio y transmisión Shimano Deore 1x12.
+        </descripcion>
+        <precio>1299.99</precio>
+        <disponibilidad>7</disponibilidad>
+        <categoria>Deportes</categoria>
+        <fabricante>Trek</fabricante>
+        <especificaciones>
+            <material_cuadro>Aluminio</material_cuadro>
+            <transmision>Shimano Deore 1x12</transmision>
+            <tipo_freno>Freno de disco hidráulico</tipo_freno>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>10</id>
+        <nombre>Horno de Convección KitchenAid</nombre>
+        <descripcion>
+            Horno de convección de acero inoxidable con capacidad para 12 pizzas.
+        </descripcion>
+        <precio>449.99</precio>
+        <disponibilidad>15</disponibilidad>
+        <categoria>Electrodomésticos</categoria>
+        <fabricante>KitchenAid</fabricante>
+        <especificaciones>
+            <capacidad>12 pizzas</capacidad>
+            <tipo>Convección</tipo>
+            <control>Electrónico</control>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>11</id>
+        <nombre>Altavoces Bluetooth JBL Flip 5</nombre>
+        <descripcion>
+            Altavoces portátiles Bluetooth resistentes al agua con hasta 12 horas de reproducción.
+        </descripcion>
+        <precio>99.99</precio>
+        <disponibilidad>20</disponibilidad>
+        <categoria>Audio</categoria>
+        <fabricante>JBL</fabricante>
+        <especificaciones>
+            <resistencia_agua>Sí</resistencia_agua>
+            <autonomia_bateria>12</autonomia_bateria>
+            <conectividad>Bluetooth 4.2</conectividad>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>12</id>
+        <nombre>Silla de Oficina Ergonómica</nombre>
+        <descripcion>
+            Silla de oficina con respaldo ajustable, apoyabrazos y soporte lumbar.
+        </descripcion>
+        <precio>179.99</precio>
+        <disponibilidad>25</disponibilidad>
+        <categoria>Muebles</categoria>
+        <fabricante>OfiComfort</fabricante>
+        <especificaciones>
+            <respaldo_ajustable>Sí</respaldo_ajustable>
+            <apoyabrazos>Ajustables</apoyabrazos>
+            <soporte_lumbar>Sí</soporte_lumbar>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>13</id>
+        <nombre>Teclado Mecánico RGB Logitech G Pro X</nombre>
+        <descripcion>
+            Teclado mecánico para juegos con interruptores intercambiables y retroiluminación RGB.
+        </descripcion>
+        <precio>149.99</precio>
+        <disponibilidad>15</disponibilidad>
+        <categoria>Tecnología</categoria>
+        <fabricante>Logitech</fabricante>
+        <especificaciones>
+            <interruptores>Intercambiables</interruptores>
+            <retroiluminacion>RGB</retroiluminacion>
+            <conectividad>USB</conectividad>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>14</id>
+        <nombre>Cafetera Espresso Breville Barista Express</nombre>
+        <descripcion>
+            Cafetera semiautomática con molinillo integrado para preparar café espresso de alta calidad.
+        </descripcion>
+        <precio>699.99</precio>
+        <disponibilidad>10</disponibilidad>
+        <categoria>Electrodomésticos</categoria>
+        <fabricante>Breville</fabricante>
+        <especificaciones>
+            <tipo>Cafetera semiautomática</tipo>
+            <molinillo_integrado>Sí</molinillo_integrado>
+            <presion>15 bares</presion>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>15</id>
+        <nombre>Monitor Gaming ASUS ROG Swift PG279Q</nombre>
+        <descripcion>
+            Monitor de 27 pulgadas con resolución 1440p, frecuencia de actualización de 165 Hz y tecnología G-Sync.
+        </descripcion>
+        <precio>799.99</precio>
+        <disponibilidad>8</disponibilidad>
+        <categoria>Electrónicos</categoria>
+        <fabricante>ASUS</fabricante>
+        <especificaciones>
+            <tamaño_pantalla>27 pulgadas</tamaño_pantalla>
+            <resolucion>1440p</resolucion>
+            <frecuencia_actualizacion>165 Hz</frecuencia_actualizacion>
+            <tecnologia>G-Sync</tecnologia>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>16</id>
+        <nombre>Smartwatch Apple Watch SE</nombre>
+        <descripcion>Reloj inteligente con GPS, monitor de ritmo cardíaco y notificaciones.</descripcion>
+        <precio>279.99</precio>
+        <disponibilidad>14</disponibilidad>
+        <categoria>Wearables</categoria>
+        <fabricante>Apple</fabricante>
+        <especificaciones>
+            <gps>Sí</gps>
+            <autonomia_bateria>18 horas</autonomia_bateria>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>17</id>
+        <nombre>Smartwatch Samsung Galaxy Watch 6</nombre>
+        <descripcion>Reloj inteligente con seguimiento deportivo, ECG y pantalla AMOLED.</descripcion>
+        <precio>329.99</precio>
+        <disponibilidad>9</disponibilidad>
+        <categoria>Wearables</categoria>
+        <fabricante>Samsung</fabricante>
+        <especificaciones>
+            <pantalla>AMOLED</pantalla>
+            <ecg>Sí</ecg>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>18</id>
+        <nombre>Consola Sony PlayStation 5</nombre>
+        <descripcion>Consola de nueva generación con SSD ultrarrápido y gráficos 4K.</descripcion>
+        <precio>549.99</precio>
+        <disponibilidad>6</disponibilidad>
+        <categoria>Gaming</categoria>
+        <fabricante>Sony</fabricante>
+        <especificaciones>
+            <resolucion>4K</resolucion>
+            <almacenamiento>825 GB SSD</almacenamiento>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>19</id>
+        <nombre>Consola Microsoft Xbox Series X</nombre>
+        <descripcion>Consola con 1 TB SSD, alto rendimiento y compatibilidad con 4K.</descripcion>
+        <precio>549.99</precio>
+        <disponibilidad>7</disponibilidad>
+        <categoria>Gaming</categoria>
+        <fabricante>Microsoft</fabricante>
+        <especificaciones>
+            <almacenamiento>1 TB SSD</almacenamiento>
+            <resolucion>4K</resolucion>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>20</id>
+        <nombre>Nintendo Switch OLED</nombre>
+        <descripcion>Consola híbrida con pantalla OLED de 7 pulgadas y modo portátil.</descripcion>
+        <precio>349.99</precio>
+        <disponibilidad>16</disponibilidad>
+        <categoria>Gaming</categoria>
+        <fabricante>Nintendo</fabricante>
+        <especificaciones>
+            <pantalla>7 pulgadas OLED</pantalla>
+            <conectividad>Wi-Fi</conectividad>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>21</id>
+        <nombre>Router Wi-Fi 6 TP-Link Archer AX50</nombre>
+        <descripcion>Router Wi-Fi 6 con mayor velocidad, cobertura mejorada y baja latencia.</descripcion>
+        <precio>129.99</precio>
+        <disponibilidad>22</disponibilidad>
+        <categoria>Redes</categoria>
+        <fabricante>TP-Link</fabricante>
+        <especificaciones>
+            <wifi>Wi-Fi 6</wifi>
+            <puertos>Gigabit</puertos>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>22</id>
+        <nombre>Disco SSD Samsung 970 EVO Plus 1TB</nombre>
+        <descripcion>SSD NVMe PCIe con altas velocidades de lectura y escritura.</descripcion>
+        <precio>109.99</precio>
+        <disponibilidad>30</disponibilidad>
+        <categoria>Almacenamiento</categoria>
+        <fabricante>Samsung</fabricante>
+        <especificaciones>
+            <tipo>NVMe</tipo>
+            <capacidad>1 TB</capacidad>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>23</id>
+        <nombre>Disco Duro Externo WD Elements 2TB</nombre>
+        <descripcion>Almacenamiento portátil USB 3.0 para copias de seguridad y archivos.</descripcion>
+        <precio>79.99</precio>
+        <disponibilidad>18</disponibilidad>
+        <categoria>Almacenamiento</categoria>
+        <fabricante>Western Digital</fabricante>
+        <especificaciones>
+            <capacidad>2 TB</capacidad>
+            <conectividad>USB 3.0</conectividad>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>24</id>
+        <nombre>Memoria RAM Corsair Vengeance 16GB</nombre>
+        <descripcion>Kit de memoria DDR4 para mejorar rendimiento en multitarea y gaming.</descripcion>
+        <precio>59.99</precio>
+        <disponibilidad>40</disponibilidad>
+        <categoria>Componentes</categoria>
+        <fabricante>Corsair</fabricante>
+        <especificaciones>
+            <tipo>DDR4</tipo>
+            <capacidad>16 GB</capacidad>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>25</id>
+        <nombre>Tarjeta Gráfica NVIDIA GeForce RTX 4060</nombre>
+        <descripcion>GPU para juegos con trazado de rayos y alto rendimiento.</descripcion>
+        <precio>339.99</precio>
+        <disponibilidad>11</disponibilidad>
+        <categoria>Componentes</categoria>
+        <fabricante>NVIDIA</fabricante>
+        <especificaciones>
+            <tecnologia>Ray Tracing</tecnologia>
+            <memoria>8 GB</memoria>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>26</id>
+        <nombre>Teclado Mecánico Keychron K2</nombre>
+        <descripcion>Teclado mecánico compacto con conectividad Bluetooth y USB-C.</descripcion>
+        <precio>89.99</precio>
+        <disponibilidad>13</disponibilidad>
+        <categoria>Periféricos</categoria>
+        <fabricante>Keychron</fabricante>
+        <especificaciones>
+            <conectividad>Bluetooth, USB-C</conectividad>
+            <layout>Compacto</layout>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>27</id>
+        <nombre>Ratón Logitech MX Master 3S</nombre>
+        <descripcion>Ratón ergonómico con desplazamiento rápido y alta precisión.</descripcion>
+        <precio>109.99</precio>
+        <disponibilidad>17</disponibilidad>
+        <categoria>Periféricos</categoria>
+        <fabricante>Logitech</fabricante>
+        <especificaciones>
+            <dpi>8000</dpi>
+            <conectividad>Bluetooth</conectividad>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>28</id>
+        <nombre>Auriculares Inalámbricos Apple AirPods Pro</nombre>
+        <descripcion>Auriculares Bluetooth con cancelación activa de ruido y estuche de carga.</descripcion>
+        <precio>249.99</precio>
+        <disponibilidad>19</disponibilidad>
+        <categoria>Audio</categoria>
+        <fabricante>Apple</fabricante>
+        <especificaciones>
+            <cancelacion_ruido>Sí</cancelacion_ruido>
+            <conectividad>Bluetooth</conectividad>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>29</id>
+        <nombre>Barra de Sonido Samsung HW-Q600C</nombre>
+        <descripcion>Barra de sonido con Dolby Atmos y subwoofer para cine en casa.</descripcion>
+        <precio>299.99</precio>
+        <disponibilidad>8</disponibilidad>
+        <categoria>Audio</categoria>
+        <fabricante>Samsung</fabricante>
+        <especificaciones>
+            <dolby_atmos>Sí</dolby_atmos>
+            <conectividad>HDMI, Bluetooth</conectividad>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>30</id>
+        <nombre>Altavoz Inteligente Amazon Echo Dot</nombre>
+        <descripcion>Altavoz con asistente de voz para música, hogar inteligente y alarmas.</descripcion>
+        <precio>49.99</precio>
+        <disponibilidad>35</disponibilidad>
+        <categoria>Hogar</categoria>
+        <fabricante>Amazon</fabricante>
+        <especificaciones>
+            <asistente>Alexa</asistente>
+            <conectividad>Wi-Fi, Bluetooth</conectividad>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>31</id>
+        <nombre>Robot de Cocina Thermomix TM6</nombre>
+        <descripcion>Robot de cocina multifunción con recetas guiadas y pantalla táctil.</descripcion>
+        <precio>1399.99</precio>
+        <disponibilidad>3</disponibilidad>
+        <categoria>Electrodomésticos</categoria>
+        <fabricante>Vorwerk</fabricante>
+        <especificaciones>
+            <pantalla>Táctil</pantalla>
+            <funciones>Multifunción</funciones>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>32</id>
+        <nombre>Microondas Panasonic Inverter</nombre>
+        <descripcion>Microondas con tecnología inverter para cocción uniforme y rápida.</descripcion>
+        <precio>159.99</precio>
+        <disponibilidad>12</disponibilidad>
+        <categoria>Electrodomésticos</categoria>
+        <fabricante>Panasonic</fabricante>
+        <especificaciones>
+            <tecnologia>Inverter</tecnologia>
+            <capacidad>23 litros</capacidad>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>33</id>
+        <nombre>Frigorífico LG InstaView</nombre>
+        <descripcion>Frigorífico con puerta InstaView y sistema de enfriamiento eficiente.</descripcion>
+        <precio>1899.99</precio>
+        <disponibilidad>2</disponibilidad>
+        <categoria>Electrodomésticos</categoria>
+        <fabricante>LG</fabricante>
+        <especificaciones>
+            <tecnologia>InstaView</tecnologia>
+            <tipo>Combi</tipo>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>34</id>
+        <nombre>Secador Dyson Supersonic</nombre>
+        <descripcion>Secador de pelo con control de temperatura y flujo de aire potente.</descripcion>
+        <precio>399.99</precio>
+        <disponibilidad>5</disponibilidad>
+        <categoria>Cuidado Personal</categoria>
+        <fabricante>Dyson</fabricante>
+        <especificaciones>
+            <control_temperatura>Sí</control_temperatura>
+            <potencia>1600 W</potencia>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>35</id>
+        <nombre>Cepillo Eléctrico Oral-B iO Series 6</nombre>
+        <descripcion>Cepillo dental eléctrico con sensores y distintos modos de limpieza.</descripcion>
+        <precio>159.99</precio>
+        <disponibilidad>10</disponibilidad>
+        <categoria>Cuidado Personal</categoria>
+        <fabricante>Oral-B</fabricante>
+        <especificaciones>
+            <modos>5</modos>
+            <sensor_presion>Sí</sensor_presion>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>36</id>
+        <nombre>Cámara de Acción GoPro HERO12</nombre>
+        <descripcion>Cámara deportiva resistente al agua con grabación 5.3K y estabilización.</descripcion>
+        <precio>399.99</precio>
+        <disponibilidad>9</disponibilidad>
+        <categoria>Fotografía</categoria>
+        <fabricante>GoPro</fabricante>
+        <especificaciones>
+            <resolucion_video>5.3K</resolucion_video>
+            <estabilizacion>Sí</estabilizacion>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>37</id>
+        <nombre>Objetivo Canon EF 50mm f/1.8</nombre>
+        <descripcion>Objetivo luminoso ideal para retratos y fotografía con poca luz.</descripcion>
+        <precio>129.99</precio>
+        <disponibilidad>21</disponibilidad>
+        <categoria>Fotografía</categoria>
+        <fabricante>Canon</fabricante>
+        <especificaciones>
+            <distancia_focal>50mm</distancia_focal>
+            <apertura>f/1.8</apertura>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>38</id>
+        <nombre>Trípode Manfrotto Compact Action</nombre>
+        <descripcion>Trípode ligero para cámara con cabezal de 3 vías y ajuste rápido.</descripcion>
+        <precio>69.99</precio>
+        <disponibilidad>27</disponibilidad>
+        <categoria>Fotografía</categoria>
+        <fabricante>Manfrotto</fabricante>
+        <especificaciones>
+            <tipo>Cabezal 3 vías</tipo>
+            <material>Aluminio</material>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>39</id>
+        <nombre>Patinete Eléctrico Xiaomi Mi Electric Scooter</nombre>
+        <descripcion>Patinete eléctrico con autonomía para ciudad y plegado rápido.</descripcion>
+        <precio>449.99</precio>
+        <disponibilidad>12</disponibilidad>
+        <categoria>Movilidad</categoria>
+        <fabricante>Xiaomi</fabricante>
+        <especificaciones>
+            <autonomia_bateria>30 km</autonomia_bateria>
+            <velocidad_max>25 km/h</velocidad_max>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>40</id>
+        <nombre>Aspiradora Dyson V11</nombre>
+        <descripcion>Aspiradora sin cable con potente succión y varios modos de limpieza.</descripcion>
+        <precio>599.99</precio>
+        <disponibilidad>4</disponibilidad>
+        <categoria>Hogar</categoria>
+        <fabricante>Dyson</fabricante>
+        <especificaciones>
+            <tipo>Sin cable</tipo>
+            <autonomia_bateria>60 minutos</autonomia_bateria>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>41</id>
+        <nombre>Freidora de Aire Philips Airfryer</nombre>
+        <descripcion>Freidora de aire para cocinar con menos aceite y resultados crujientes.</descripcion>
+        <precio>179.99</precio>
+        <disponibilidad>20</disponibilidad>
+        <categoria>Electrodomésticos</categoria>
+        <fabricante>Philips</fabricante>
+        <especificaciones>
+            <capacidad>4.1 litros</capacidad>
+            <tipo>Freidora de aire</tipo>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>42</id>
+        <nombre>Lavadora Bosch Serie 6</nombre>
+        <descripcion>Lavadora eficiente con varios programas y motor silencioso.</descripcion>
+        <precio>599.99</precio>
+        <disponibilidad>6</disponibilidad>
+        <categoria>Electrodomésticos</categoria>
+        <fabricante>Bosch</fabricante>
+        <especificaciones>
+            <capacidad>9 kg</capacidad>
+            <eficiencia>A</eficiencia>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>43</id>
+        <nombre>Monitor LG UltraGear 27GP850</nombre>
+        <descripcion>Monitor gaming 27 pulgadas con 1440p y alta frecuencia, ideal eSports.</descripcion>
+        <precio>349.99</precio>
+        <disponibilidad>10</disponibilidad>
+        <categoria>Electrónicos</categoria>
+        <fabricante>LG</fabricante>
+        <especificaciones>
+            <resolucion>1440p</resolucion>
+            <frecuencia_actualizacion>165 Hz</frecuencia_actualizacion>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>44</id>
+        <nombre>Portátil Lenovo IdeaPad 3</nombre>
+        <descripcion>Portátil con procesador AMD Ryzen, 8 GB de RAM y SSD rápido.</descripcion>
+        <precio>499.99</precio>
+        <disponibilidad>15</disponibilidad>
+        <categoria>Electrónicos</categoria>
+        <fabricante>Lenovo</fabricante>
+        <especificaciones>
+            <procesador>AMD Ryzen</procesador>
+            <almacenamiento>512 GB SSD</almacenamiento>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>45</id>
+        <nombre>Smartphone Xiaomi Redmi Note 13</nombre>
+        <descripcion>Smartphone Android con gran batería, pantalla amplia y cámara de alta resolución.</descripcion>
+        <precio>249.99</precio>
+        <disponibilidad>23</disponibilidad>
+        <categoria>Teléfonos</categoria>
+        <fabricante>Xiaomi</fabricante>
+        <especificaciones>
+            <pantalla>6.67 pulgadas</pantalla>
+            <bateria>5000 mAh</bateria>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>46</id>
+        <nombre>Smartphone Google Pixel 8</nombre>
+        <descripcion>Smartphone Android con cámara avanzada, IA y actualizaciones rápidas.</descripcion>
+        <precio>699.99</precio>
+        <disponibilidad>7</disponibilidad>
+        <categoria>Teléfonos</categoria>
+        <fabricante>Google</fabricante>
+        <especificaciones>
+            <almacenamiento>128 GB</almacenamiento>
+            <camara>Avanzada</camara>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>47</id>
+        <nombre>Tablet Apple iPad 10ª generación</nombre>
+        <descripcion>Tablet con pantalla Liquid Retina, ideal para estudio y entretenimiento.</descripcion>
+        <precio>449.99</precio>
+        <disponibilidad>10</disponibilidad>
+        <categoria>Tablets</categoria>
+        <fabricante>Apple</fabricante>
+        <especificaciones>
+            <pantalla>Liquid Retina</pantalla>
+            <almacenamiento>64 GB</almacenamiento>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>48</id>
+        <nombre>Tablet Samsung Galaxy Tab S9</nombre>
+        <descripcion>Tablet Android premium con pantalla AMOLED y gran rendimiento.</descripcion>
+        <precio>899.99</precio>
+        <disponibilidad>5</disponibilidad>
+        <categoria>Tablets</categoria>
+        <fabricante>Samsung</fabricante>
+        <especificaciones>
+            <pantalla>AMOLED</pantalla>
+            <almacenamiento>256 GB</almacenamiento>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>49</id>
+        <nombre>Bicicleta Urbana B'Twin Riverside</nombre>
+        <descripcion>Bicicleta cómoda para ciudad con cambios y cuadro resistente.</descripcion>
+        <precio>349.99</precio>
+        <disponibilidad>9</disponibilidad>
+        <categoria>Deportes</categoria>
+        <fabricante>Decathlon</fabricante>
+        <especificaciones>
+            <material_cuadro>Aluminio</material_cuadro>
+            <transmision>7 velocidades</transmision>
+        </especificaciones>
+    </producto>
+    <producto>
+        <id>50</id>
+        <nombre>Cinta de Correr ProForm Carbon T7</nombre>
+        <descripcion>Cinta de correr para entrenamiento en casa con programas y amortiguación.</descripcion>
+        <precio>799.99</precio>
+        <disponibilidad>4</disponibilidad>
+        <categoria>Deportes</categoria>
+        <fabricante>ProForm</fabricante>
+        <especificaciones>
+            <velocidad_max>16 km/h</velocidad_max>
+            <amortiguacion>Sí</amortiguacion>
+        </especificaciones>
+    </producto>
+</productos>

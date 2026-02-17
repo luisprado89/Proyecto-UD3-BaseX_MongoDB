@@ -1,0 +1,67 @@
+############################
+# IntelliJ IDEA
+############################
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+############################
+# Carpetas de compilación
+############################
+
+out/
+target/
+build/
+
+############################
+# Archivos temporales sistema
+############################
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+############################
+# Logs
+############################
+
+*.log
+
+############################
+# Archivos temporales varios
+############################
+
+*.tmp
+*.swp
+*.bak
+
+############################
+# Kotlin (por si acaso)
+############################
+
+.kotlin/
+
+############################
+# VS Code (si lo abres alguna vez)
+############################
+
+.vscode/
+
+############################
+# Eclipse / NetBeans (por si acaso)
+############################
+
+.project
+.classpath
+.settings/
+nbproject/
+dist/
+nbdist/
+
+############################
+# IMPORTANTE:
+# NO ignoramos libs/
+# NO ignoramos src/
+############################

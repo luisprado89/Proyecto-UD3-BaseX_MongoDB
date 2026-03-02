@@ -55,3 +55,46 @@ La entrega se genera como **401.zip** e incluye:
 - `src/`
 
 📌 El repositorio contiene además `docs/` y `libs/` para tenerlo todo ordenado y ejecutable al clonar.
+# 🏆 Evaluación Oficial — Proyecto 401 (BaseX + MongoDB)
+
+📅 Evaluado el: **25 de febrero de 2026**  
+👨‍🏫 Profesor evaluador:   
+📊 Calificación final: **20,00 / 20,00**
+
+---
+
+## 📊 Desglose según rúbrica oficial
+
+| Nº | Apartado | Resultado | Puntuación obtenida |
+|----|----------|-----------|---------------------|
+| 1  | Modificar elemento por ID | ✅ BEN | **1 / 1** |
+| 2  | Eliminar producto | ✅ BEN | **1 / 1** |
+| 3  | Consulta 1 (XML) | ✅ BEN | **0.5 / 0.5** |
+| 4  | Consulta 2 (XML) | ✅ BEN | **0.5 / 0.5** |
+| 5  | Consulta 3 (XML) | ✅ BEN | **0.5 / 0.5** |
+| 6  | Consulta 4 (XML) | ✅ BEN | **1 / 1** |
+| 7  | Consulta 5 (XML) | ✅ BEN | **1 / 1** |
+| 8  | Crear cliente | ✅ BEN | **1 / 1** |
+| 9  | Identificar usuario por email | ✅ BEN | **1 / 1** |
+| 10 | Borrar cliente | ✅ BEN | **1 / 1** |
+| 11 | Modificar valor de un campo | ✅ BEN | **1.5 / 1.5** |
+| 12 | Añadir producto al carrito | ✅ BEN | **1.5 / 1.5** |
+| 13 | Mostrar el carrito | ✅ BEN | **1 / 1** |
+| 14 | Mostrar pedidos del cliente | ✅ BEN | **1 / 1** |
+| 15 | Pagar el carrito | ✅ BEN | **2.5 / 2.5** |
+| 16 | Consulta agregada 1 (MongoDB) | ✅ BEN | **2 / 2** |
+| 17 | Consulta agregada 2 (MongoDB) | ✅ BEN | **2 / 2** |
+📊 Calificación final: **20,00 / 20,00**
+---
+
+## 🏁 Resultado final
+
+> 🔥 **Proyecto calificado con la puntuación máxima en todos los apartados.**  
+> ✔ Todos los criterios evaluados como **BEN** (máxima valoración).  
+> ✔ Implementación completa de BaseX (XQuery) y MongoDB (CRUD + agregaciones).
+
+---
+
+## 📌 Observación
+
+El proyecto cumple íntegramente los requisitos del enunciado oficial y supera todos los criterios de evaluación establecidos en la rúbrica académica.

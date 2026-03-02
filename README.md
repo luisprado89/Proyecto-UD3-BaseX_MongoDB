@@ -84,7 +84,9 @@ La entrega se genera como **401.zip** e incluye:
 | 15 | Pagar el carrito | ✅ BEN | **2.5 / 2.5** |
 | 16 | Consulta agregada 1 (MongoDB) | ✅ BEN | **2 / 2** |
 | 17 | Consulta agregada 2 (MongoDB) | ✅ BEN | **2 / 2** |
-📊 Calificación final: **20,00 / 20,00**
+| 📊 Calificación final:| | | **20,00 / 20,00**|
+
+**20,00 / 20,00**
 ---
 
 ## 🏁 Resultado final
